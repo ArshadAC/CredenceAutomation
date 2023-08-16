@@ -1,0 +1,609 @@
+ 2023-08-16 13:28:41,383 : INFO : Test_Login : test_HomePageTitle_001 : 21 : test_homePageTitle_001 is Started
+ 2023-08-16 13:28:41,384 : INFO : Test_Login : test_HomePageTitle_001 : 22 : Opening Browser
+ 2023-08-16 13:28:45,977 : INFO : Test_Login : test_Login_002 : 34 : test_homePageTitle_001 is Started
+ 2023-08-16 13:28:45,978 : INFO : Test_Login : test_Login_002 : 35 : Opening Browser
+ 2023-08-16 13:31:31,177 : INFO : Test_Login : test_HomePageTitle_001 : 21 : test_homePageTitle_001 is Started
+ 2023-08-16 13:31:31,178 : INFO : Test_Login : test_HomePageTitle_001 : 22 : Opening Browser
+ 2023-08-16 13:31:31,641 : INFO : Test_Login : test_HomePageTitle_001 : 24 : Opening URl
+ 2023-08-16 13:31:36,125 : INFO : Test_Login : test_Login_002 : 34 : test_homePageTitle_001 is Started
+ 2023-08-16 13:31:36,160 : INFO : Test_Login : test_Login_002 : 35 : Opening Browser
+ 2023-08-16 13:31:37,058 : INFO : Test_Login : test_Login_002 : 37 : Opening URl
+ 2023-08-16 13:31:37,429 : INFO : Test_Login : test_Login_002 : 40 : Click on Loging Button
+ 2023-08-16 13:31:37,547 : INFO : Test_Login : test_Login_002 : 42 : Entering EmailID
+ 2023-08-16 13:31:37,633 : INFO : Test_Login : test_Login_002 : 45 : Entering Password
+ 2023-08-16 13:31:38,506 : INFO : Test_Login : test_Login_002 : 48 : Click on Login Button
+ 2023-08-16 13:31:38,513 : INFO : Test_Login : test_Login_002 : 50 : test_Login_002 Passed
+ 2023-08-16 18:10:52,748 : INFO : Test_Login : test_addProduct_003 : 22 : test_addProduct_003 is Sarted
+ 2023-08-16 18:10:52,749 : INFO : Test_Login : test_addProduct_003 : 23 : Opening Browser
+ 2023-08-16 18:10:53,501 : INFO : Test_Login : test_addProduct_003 : 25 : Opening Url--->https://automation.credence.in/
+ 2023-08-16 18:10:53,999 : INFO : Test_Login : test_addProduct_003 : 29 : Click on Login Button
+ 2023-08-16 18:10:54,129 : INFO : Test_Login : test_addProduct_003 : 31 : Enter Email Address--->credtest@gmail.com
+ 2023-08-16 18:10:54,208 : INFO : Test_Login : test_addProduct_003 : 34 : Enter Password--->cred123
+ 2023-08-16 18:11:00,900 : INFO : Test_Login : test_addProduct_003 : 40 : Click on ApppleMackbook
+ 2023-08-16 18:11:01,618 : INFO : Test_Login : test_addProduct_003 : 43 : Select Qty
+ 2023-08-16 18:11:06,885 : INFO : Test_Login : test_addProduct_003 : 46 : Click on Continue
+ 2023-08-16 18:11:12,192 : INFO : Test_Login : test_addProduct_003 : 49 : Click on headPhone
+ 2023-08-16 18:11:12,702 : INFO : Test_Login : test_addProduct_003 : 51 : Click on Add Headphone
+ 2023-08-16 18:11:12,811 : INFO : Test_Login : test_addProduct_003 : 53 : Select Qty 
+ 2023-08-16 18:11:24,436 : INFO : Test_Login : test_addProduct_003 : 56 : Click on checkout
+ 2023-08-16 18:11:24,758 : INFO : Test_Login : test_addProduct_003 : 58 : Enter Firstname--->Credence
+ 2023-08-16 18:11:24,836 : INFO : Test_Login : test_addProduct_003 : 61 : Enter Lastname--->IT
+ 2023-08-16 18:11:24,922 : INFO : Test_Login : test_addProduct_003 : 64 : Enter Mobile Number
+ 2023-08-16 18:11:25,007 : INFO : Test_Login : test_addProduct_003 : 66 : Enter Address
+ 2023-08-16 18:11:25,083 : INFO : Test_Login : test_addProduct_003 : 68 : Enter Zipcode
+ 2023-08-16 18:11:25,299 : INFO : Test_Login : test_addProduct_003 : 71 : Enter Owner
+ 2023-08-16 18:11:25,397 : INFO : Test_Login : test_addProduct_003 : 73 : Enter CVV
+ 2023-08-16 18:11:25,636 : INFO : Test_Login : test_addProduct_003 : 75 : Enter Card number
+ 2023-08-16 18:11:25,825 : INFO : Test_Login : test_addProduct_003 : 77 : Enter card number
+ 2023-08-16 18:11:26,026 : INFO : Test_Login : test_addProduct_003 : 79 : Enter card number
+ 2023-08-16 18:11:26,026 : INFO : Test_Login : test_addProduct_003 : 80 : ENter vard number
+ 2023-08-16 18:11:26,230 : INFO : Test_Login : test_addProduct_003 : 82 : Enter card number
+ 2023-08-16 18:11:26,354 : INFO : Test_Login : test_addProduct_003 : 84 : Select Year
+ 2023-08-16 18:11:26,482 : INFO : Test_Login : test_addProduct_003 : 86 : Select Month
+ 2023-08-16 18:11:26,544 : INFO : Test_Login : test_addProduct_003 : 88 : Click on Final Checkout
+ 2023-08-16 18:19:03,013 : INFO : Test_Login : test_addProduct_003 : 22 : test_addProduct_003 is Sarted
+ 2023-08-16 18:19:03,014 : INFO : Test_Login : test_addProduct_003 : 23 : Opening Browser
+ 2023-08-16 18:19:03,762 : INFO : Test_Login : test_addProduct_003 : 25 : Opening Url--->https://automation.credence.in/
+ 2023-08-16 18:19:04,273 : INFO : Test_Login : test_addProduct_003 : 29 : Click on Login Button
+ 2023-08-16 18:19:04,396 : INFO : Test_Login : test_addProduct_003 : 31 : Enter Email Address--->credtest@gmail.com
+ 2023-08-16 18:19:04,481 : INFO : Test_Login : test_addProduct_003 : 34 : Enter Password--->cred123
+ 2023-08-16 18:19:11,005 : INFO : Test_Login : test_addProduct_003 : 40 : Click on ApppleMackbook
+ 2023-08-16 18:19:11,607 : INFO : Test_Login : test_addProduct_003 : 43 : Select Qty
+ 2023-08-16 18:19:17,013 : INFO : Test_Login : test_addProduct_003 : 46 : Click on Continue
+ 2023-08-16 18:19:23,955 : INFO : Test_Login : test_addProduct_003 : 49 : Click on headPhone
+ 2023-08-16 18:19:28,078 : INFO : Test_Login : test_addProduct_003 : 51 : Click on Add Headphone
+ 2023-08-16 18:19:28,223 : INFO : Test_Login : test_addProduct_003 : 53 : Select Qty 
+ 2023-08-16 18:19:43,232 : INFO : Test_Login : test_addProduct_003 : 56 : Click on checkout
+ 2023-08-16 18:19:43,515 : INFO : Test_Login : test_addProduct_003 : 58 : Enter Firstname--->Credence
+ 2023-08-16 18:19:43,614 : INFO : Test_Login : test_addProduct_003 : 61 : Enter Lastname--->IT
+ 2023-08-16 18:19:43,698 : INFO : Test_Login : test_addProduct_003 : 64 : Enter Mobile Number
+ 2023-08-16 18:19:43,793 : INFO : Test_Login : test_addProduct_003 : 66 : Enter Address
+ 2023-08-16 18:19:43,898 : INFO : Test_Login : test_addProduct_003 : 68 : Enter Zipcode
+ 2023-08-16 18:19:44,132 : INFO : Test_Login : test_addProduct_003 : 71 : Enter Owner
+ 2023-08-16 18:19:44,230 : INFO : Test_Login : test_addProduct_003 : 73 : Enter CVV
+ 2023-08-16 18:19:44,520 : INFO : Test_Login : test_addProduct_003 : 75 : Enter Card number
+ 2023-08-16 18:19:44,745 : INFO : Test_Login : test_addProduct_003 : 77 : Enter card number
+ 2023-08-16 18:19:45,020 : INFO : Test_Login : test_addProduct_003 : 79 : Enter card number
+ 2023-08-16 18:19:45,020 : INFO : Test_Login : test_addProduct_003 : 80 : ENter vard number
+ 2023-08-16 18:19:45,289 : INFO : Test_Login : test_addProduct_003 : 82 : Enter card number
+ 2023-08-16 18:19:45,533 : INFO : Test_Login : test_addProduct_003 : 84 : Select Year
+ 2023-08-16 18:19:45,673 : INFO : Test_Login : test_addProduct_003 : 86 : Select Month
+ 2023-08-16 18:19:45,736 : INFO : Test_Login : test_addProduct_003 : 88 : Click on Final Checkout
+ 2023-08-16 18:22:13,765 : INFO : Test_Login : test_addProduct_003 : 22 : test_addProduct_003 is Sarted
+ 2023-08-16 18:22:13,766 : INFO : Test_Login : test_addProduct_003 : 23 : Opening Browser
+ 2023-08-16 18:22:24,411 : INFO : Test_Login : test_addProduct_003 : 25 : Opening Url--->https://automation.credence.in/
+ 2023-08-16 18:23:35,333 : INFO : Test_Login : test_addProduct_003 : 22 : test_addProduct_003 is Sarted
+ 2023-08-16 18:23:35,334 : INFO : Test_Login : test_addProduct_003 : 23 : Opening Browser
+ 2023-08-16 18:23:42,830 : INFO : Test_Login : test_addProduct_003 : 25 : Opening Url--->https://automation.credence.in/
+ 2023-08-16 18:23:43,424 : INFO : Test_Login : test_addProduct_003 : 29 : Click on Login Button
+ 2023-08-16 18:23:43,552 : INFO : Test_Login : test_addProduct_003 : 31 : Enter Email Address--->credtest@gmail.com
+ 2023-08-16 18:23:43,648 : INFO : Test_Login : test_addProduct_003 : 34 : Enter Password--->cred123
+ 2023-08-16 18:23:50,469 : INFO : Test_Login : test_addProduct_003 : 40 : Click on ApppleMackbook
+ 2023-08-16 18:23:50,987 : INFO : Test_Login : test_addProduct_003 : 43 : Select Qty
+ 2023-08-16 18:24:02,800 : INFO : Test_Login : test_addProduct_003 : 46 : Click on Continue
+ 2023-08-16 18:24:10,878 : INFO : Test_Login : test_addProduct_003 : 49 : Click on headPhone
+ 2023-08-16 18:24:52,902 : INFO : Test_Login : test_addProduct_003 : 51 : Click on Add Headphone
+ 2023-08-16 18:24:53,050 : INFO : Test_Login : test_addProduct_003 : 53 : Select Qty 
+ 2023-08-16 18:25:15,642 : INFO : Test_Login : test_addProduct_003 : 56 : Click on checkout
+ 2023-08-16 18:25:15,814 : INFO : Test_Login : test_addProduct_003 : 58 : Enter Firstname--->Credence
+ 2023-08-16 18:25:15,926 : INFO : Test_Login : test_addProduct_003 : 61 : Enter Lastname--->IT
+ 2023-08-16 18:25:16,024 : INFO : Test_Login : test_addProduct_003 : 64 : Enter Mobile Number
+ 2023-08-16 18:25:16,135 : INFO : Test_Login : test_addProduct_003 : 66 : Enter Address
+ 2023-08-16 18:25:16,223 : INFO : Test_Login : test_addProduct_003 : 68 : Enter Zipcode
+ 2023-08-16 18:25:16,464 : INFO : Test_Login : test_addProduct_003 : 71 : Enter Owner
+ 2023-08-16 18:25:16,561 : INFO : Test_Login : test_addProduct_003 : 73 : Enter CVV
+ 2023-08-16 18:25:16,834 : INFO : Test_Login : test_addProduct_003 : 75 : Enter Card number
+ 2023-08-16 18:25:17,051 : INFO : Test_Login : test_addProduct_003 : 77 : Enter card number
+ 2023-08-16 18:25:17,241 : INFO : Test_Login : test_addProduct_003 : 79 : Enter card number
+ 2023-08-16 18:25:17,241 : INFO : Test_Login : test_addProduct_003 : 80 : ENter vard number
+ 2023-08-16 18:25:17,453 : INFO : Test_Login : test_addProduct_003 : 82 : Enter card number
+ 2023-08-16 18:25:17,654 : INFO : Test_Login : test_addProduct_003 : 84 : Select Year
+ 2023-08-16 18:25:17,876 : INFO : Test_Login : test_addProduct_003 : 86 : Select Month
+ 2023-08-16 18:25:17,994 : INFO : Test_Login : test_addProduct_003 : 88 : Click on Final Checkout
+ 2023-08-16 18:26:27,996 : INFO : Test_Login : test_addProduct_003 : 22 : test_addProduct_003 is Sarted
+ 2023-08-16 18:26:27,996 : INFO : Test_Login : test_addProduct_003 : 23 : Opening Browser
+ 2023-08-16 18:26:28,666 : INFO : Test_Login : test_addProduct_003 : 25 : Opening Url--->https://automation.credence.in/
+ 2023-08-16 18:26:29,296 : INFO : Test_Login : test_addProduct_003 : 29 : Click on Login Button
+ 2023-08-16 18:26:29,410 : INFO : Test_Login : test_addProduct_003 : 31 : Enter Email Address--->credtest@gmail.com
+ 2023-08-16 18:26:29,491 : INFO : Test_Login : test_addProduct_003 : 34 : Enter Password--->cred123
+ 2023-08-16 18:26:36,439 : INFO : Test_Login : test_addProduct_003 : 40 : Click on ApppleMackbook
+ 2023-08-16 18:26:38,029 : INFO : Test_Login : test_addProduct_003 : 43 : Select Qty
+ 2023-08-16 18:26:43,619 : INFO : Test_Login : test_addProduct_003 : 46 : Click on Continue
+ 2023-08-16 18:26:52,740 : INFO : Test_Login : test_addProduct_003 : 49 : Click on headPhone
+ 2023-08-16 18:27:01,739 : INFO : Test_Login : test_addProduct_003 : 51 : Click on Add Headphone
+ 2023-08-16 18:27:01,865 : INFO : Test_Login : test_addProduct_003 : 53 : Select Qty 
+ 2023-08-16 18:27:18,415 : INFO : Test_Login : test_addProduct_003 : 56 : Click on checkout
+ 2023-08-16 18:27:18,682 : INFO : Test_Login : test_addProduct_003 : 58 : Enter Firstname--->Credence
+ 2023-08-16 18:27:18,800 : INFO : Test_Login : test_addProduct_003 : 61 : Enter Lastname--->IT
+ 2023-08-16 18:27:18,881 : INFO : Test_Login : test_addProduct_003 : 64 : Enter Mobile Number
+ 2023-08-16 18:27:18,963 : INFO : Test_Login : test_addProduct_003 : 66 : Enter Address
+ 2023-08-16 18:27:19,042 : INFO : Test_Login : test_addProduct_003 : 68 : Enter Zipcode
+ 2023-08-16 18:27:19,269 : INFO : Test_Login : test_addProduct_003 : 71 : Enter Owner
+ 2023-08-16 18:27:19,365 : INFO : Test_Login : test_addProduct_003 : 73 : Enter CVV
+ 2023-08-16 18:27:19,636 : INFO : Test_Login : test_addProduct_003 : 75 : Enter Card number
+ 2023-08-16 18:27:19,845 : INFO : Test_Login : test_addProduct_003 : 77 : Enter card number
+ 2023-08-16 18:27:20,039 : INFO : Test_Login : test_addProduct_003 : 79 : Enter card number
+ 2023-08-16 18:27:20,039 : INFO : Test_Login : test_addProduct_003 : 80 : ENter vard number
+ 2023-08-16 18:27:20,229 : INFO : Test_Login : test_addProduct_003 : 82 : Enter card number
+ 2023-08-16 18:27:20,405 : INFO : Test_Login : test_addProduct_003 : 84 : Select Year
+ 2023-08-16 18:27:20,570 : INFO : Test_Login : test_addProduct_003 : 86 : Select Month
+ 2023-08-16 18:27:20,652 : INFO : Test_Login : test_addProduct_003 : 88 : Click on Final Checkout
+ 2023-08-16 18:28:05,033 : INFO : Test_Login : test_addProduct_003 : 22 : test_addProduct_003 is Sarted
+ 2023-08-16 18:28:05,033 : INFO : Test_Login : test_addProduct_003 : 23 : Opening Browser
+ 2023-08-16 18:28:07,278 : INFO : Test_Login : test_addProduct_003 : 25 : Opening Url--->https://automation.credence.in/
+ 2023-08-16 18:28:08,689 : INFO : Test_Login : test_addProduct_003 : 29 : Click on Login Button
+ 2023-08-16 18:28:08,799 : INFO : Test_Login : test_addProduct_003 : 31 : Enter Email Address--->credtest@gmail.com
+ 2023-08-16 18:28:08,890 : INFO : Test_Login : test_addProduct_003 : 34 : Enter Password--->cred123
+ 2023-08-16 18:28:15,977 : INFO : Test_Login : test_addProduct_003 : 40 : Click on ApppleMackbook
+ 2023-08-16 18:28:16,458 : INFO : Test_Login : test_addProduct_003 : 43 : Select Qty
+ 2023-08-16 18:28:21,868 : INFO : Test_Login : test_addProduct_003 : 46 : Click on Continue
+ 2023-08-16 18:28:29,897 : INFO : Test_Login : test_addProduct_003 : 49 : Click on headPhone
+ 2023-08-16 18:28:36,744 : INFO : Test_Login : test_addProduct_003 : 51 : Click on Add Headphone
+ 2023-08-16 18:28:36,835 : INFO : Test_Login : test_addProduct_003 : 53 : Select Qty 
+ 2023-08-16 18:28:55,600 : INFO : Test_Login : test_addProduct_003 : 56 : Click on checkout
+ 2023-08-16 18:28:55,788 : INFO : Test_Login : test_addProduct_003 : 58 : Enter Firstname--->Credence
+ 2023-08-16 18:28:55,910 : INFO : Test_Login : test_addProduct_003 : 61 : Enter Lastname--->IT
+ 2023-08-16 18:28:55,998 : INFO : Test_Login : test_addProduct_003 : 64 : Enter Mobile Number
+ 2023-08-16 18:28:56,098 : INFO : Test_Login : test_addProduct_003 : 66 : Enter Address
+ 2023-08-16 18:28:56,190 : INFO : Test_Login : test_addProduct_003 : 68 : Enter Zipcode
+ 2023-08-16 18:28:56,419 : INFO : Test_Login : test_addProduct_003 : 71 : Enter Owner
+ 2023-08-16 18:28:56,521 : INFO : Test_Login : test_addProduct_003 : 73 : Enter CVV
+ 2023-08-16 18:28:56,787 : INFO : Test_Login : test_addProduct_003 : 75 : Enter Card number
+ 2023-08-16 18:28:57,001 : INFO : Test_Login : test_addProduct_003 : 77 : Enter card number
+ 2023-08-16 18:28:57,213 : INFO : Test_Login : test_addProduct_003 : 79 : Enter card number
+ 2023-08-16 18:28:57,213 : INFO : Test_Login : test_addProduct_003 : 80 : ENter vard number
+ 2023-08-16 18:28:57,429 : INFO : Test_Login : test_addProduct_003 : 82 : Enter card number
+ 2023-08-16 18:28:57,573 : INFO : Test_Login : test_addProduct_003 : 84 : Select Year
+ 2023-08-16 18:28:57,701 : INFO : Test_Login : test_addProduct_003 : 86 : Select Month
+ 2023-08-16 18:28:57,765 : INFO : Test_Login : test_addProduct_003 : 88 : Click on Final Checkout
+ 2023-08-16 18:46:17,893 : INFO : Test_Login : test_HomePageTitle_001 : 21 : test_homePageTitle_001 is Started
+ 2023-08-16 18:46:17,895 : INFO : Test_Login : test_HomePageTitle_001 : 22 : Opening Browser
+ 2023-08-16 18:46:18,718 : INFO : Test_Login : test_HomePageTitle_001 : 24 : Opening URl
+ 2023-08-16 18:46:23,415 : INFO : Test_Login : test_Login_002 : 34 : test_homePageTitle_001 is Started
+ 2023-08-16 18:46:23,416 : INFO : Test_Login : test_Login_002 : 35 : Opening Browser
+ 2023-08-16 18:46:24,529 : INFO : Test_Login : test_Login_002 : 37 : Opening URl
+ 2023-08-16 18:46:24,950 : INFO : Test_Login : test_Login_002 : 40 : Click on Loging Button
+ 2023-08-16 18:46:25,061 : INFO : Test_Login : test_Login_002 : 42 : Entering EmailID
+ 2023-08-16 18:46:25,143 : INFO : Test_Login : test_Login_002 : 45 : Entering Password
+ 2023-08-16 18:46:26,361 : INFO : Test_Login : test_Login_002 : 48 : Click on Login Button
+ 2023-08-16 18:47:02,488 : INFO : Test_Login : test_HomePageTitle_001 : 21 : test_homePageTitle_001 is Started
+ 2023-08-16 18:47:02,488 : INFO : Test_Login : test_HomePageTitle_001 : 22 : Opening Browser
+ 2023-08-16 18:47:03,283 : INFO : Test_Login : test_HomePageTitle_001 : 24 : Opening URl
+ 2023-08-16 18:47:07,885 : INFO : Test_Login : test_Login_002 : 34 : test_homePageTitle_001 is Started
+ 2023-08-16 18:47:07,886 : INFO : Test_Login : test_Login_002 : 35 : Opening Browser
+ 2023-08-16 18:47:08,534 : INFO : Test_Login : test_Login_002 : 37 : Opening URl
+ 2023-08-16 18:47:08,966 : INFO : Test_Login : test_Login_002 : 40 : Click on Loging Button
+ 2023-08-16 18:47:09,103 : INFO : Test_Login : test_Login_002 : 42 : Entering EmailID
+ 2023-08-16 18:47:09,180 : INFO : Test_Login : test_Login_002 : 45 : Entering Password
+ 2023-08-16 18:47:10,308 : INFO : Test_Login : test_Login_002 : 48 : Click on Login Button
+ 2023-08-16 18:49:04,532 : INFO : Test_Login : test_Login_002 : 34 : test_homePageTitle_001 is Started
+ 2023-08-16 18:49:04,532 : INFO : Test_Login : test_Login_002 : 35 : Opening Browser
+ 2023-08-16 18:49:05,068 : INFO : Test_Login : test_Login_002 : 37 : Opening URl
+ 2023-08-16 18:49:05,469 : INFO : Test_Login : test_Login_002 : 40 : Click on Loging Button
+ 2023-08-16 18:49:05,584 : INFO : Test_Login : test_Login_002 : 42 : Entering EmailID
+ 2023-08-16 18:49:05,668 : INFO : Test_Login : test_Login_002 : 45 : Entering Password
+ 2023-08-16 18:49:06,828 : INFO : Test_Login : test_Login_002 : 48 : Click on Login Button
+ 2023-08-16 18:53:51,350 : INFO : Test_Login : test_Login_002 : 34 : test_homePageTitle_001 is Started
+ 2023-08-16 18:53:51,351 : INFO : Test_Login : test_Login_002 : 35 : Opening Browser
+ 2023-08-16 18:53:51,709 : INFO : Test_Login : test_Login_002 : 37 : Opening URl
+ 2023-08-16 18:53:52,125 : INFO : Test_Login : test_Login_002 : 40 : Click on Loging Button
+ 2023-08-16 18:53:52,237 : INFO : Test_Login : test_Login_002 : 42 : Entering EmailID
+ 2023-08-16 18:53:52,314 : INFO : Test_Login : test_Login_002 : 45 : Entering Password
+ 2023-08-16 18:53:53,507 : INFO : Test_Login : test_Login_002 : 48 : Click on Login Button
+ 2023-08-16 18:56:32,142 : INFO : Test_Login : test_Login_002 : 34 : test_homePageTitle_001 is Started
+ 2023-08-16 18:56:32,142 : INFO : Test_Login : test_Login_002 : 35 : Opening Browser
+ 2023-08-16 18:56:35,408 : INFO : Test_Login : test_Login_002 : 37 : Opening URl
+ 2023-08-16 18:56:44,615 : INFO : Test_Login : test_Login_002 : 40 : Click on Loging Button
+ 2023-08-16 18:56:44,756 : INFO : Test_Login : test_Login_002 : 42 : Entering EmailID
+ 2023-08-16 18:56:44,837 : INFO : Test_Login : test_Login_002 : 45 : Entering Password
+ 2023-08-16 18:57:07,816 : INFO : Test_Login : test_Login_002 : 48 : Click on Login Button
+ 2023-08-16 19:00:16,335 : INFO : Test_Login : test_Login_002 : 34 : test_homePageTitle_001 is Started
+ 2023-08-16 19:00:16,335 : INFO : Test_Login : test_Login_002 : 35 : Opening Browser
+ 2023-08-16 19:00:41,170 : INFO : Test_Login : test_Login_002 : 34 : test_homePageTitle_001 is Started
+ 2023-08-16 19:00:41,170 : INFO : Test_Login : test_Login_002 : 35 : Opening Browser
+ 2023-08-16 19:00:42,521 : INFO : Test_Login : test_Login_002 : 37 : Opening URl
+ 2023-08-16 19:00:43,178 : INFO : Test_Login : test_Login_002 : 40 : Click on Loging Button
+ 2023-08-16 19:00:43,302 : INFO : Test_Login : test_Login_002 : 42 : Entering EmailID
+ 2023-08-16 19:00:43,387 : INFO : Test_Login : test_Login_002 : 45 : Entering Password
+ 2023-08-16 19:00:46,660 : INFO : Test_Login : test_Login_002 : 48 : Click on Login Button
+ 2023-08-16 19:01:18,100 : INFO : Test_Login : test_Login_002 : 34 : test_homePageTitle_001 is Started
+ 2023-08-16 19:01:18,100 : INFO : Test_Login : test_Login_002 : 35 : Opening Browser
+ 2023-08-16 19:01:19,594 : INFO : Test_Login : test_Login_002 : 37 : Opening URl
+ 2023-08-16 19:01:20,205 : INFO : Test_Login : test_Login_002 : 40 : Click on Loging Button
+ 2023-08-16 19:01:20,342 : INFO : Test_Login : test_Login_002 : 42 : Entering EmailID
+ 2023-08-16 19:01:20,429 : INFO : Test_Login : test_Login_002 : 45 : Entering Password
+ 2023-08-16 19:01:23,097 : INFO : Test_Login : test_Login_002 : 48 : Click on Login Button
+ 2023-08-16 19:07:24,302 : INFO : Test_Login : test_Login_002 : 34 : test_homePageTitle_001 is Started
+ 2023-08-16 19:07:24,303 : INFO : Test_Login : test_Login_002 : 35 : Opening Browser
+ 2023-08-16 19:07:28,578 : INFO : Test_Login : test_Login_002 : 37 : Opening URl
+ 2023-08-16 19:07:29,567 : INFO : Test_Login : test_Login_002 : 40 : Click on Loging Button
+ 2023-08-16 19:07:29,700 : INFO : Test_Login : test_Login_002 : 42 : Entering EmailID
+ 2023-08-16 19:07:29,796 : INFO : Test_Login : test_Login_002 : 45 : Entering Password
+ 2023-08-16 19:07:32,749 : INFO : Test_Login : test_Login_002 : 48 : Click on Login Button
+ 2023-08-16 19:08:42,217 : INFO : Test_Login : test_Login_002 : 34 : test_homePageTitle_001 is Started
+ 2023-08-16 19:08:42,217 : INFO : Test_Login : test_Login_002 : 35 : Opening Browser
+ 2023-08-16 19:08:47,250 : INFO : Test_Login : test_Login_002 : 37 : Opening URl
+ 2023-08-16 19:08:48,141 : INFO : Test_Login : test_Login_002 : 40 : Click on Loging Button
+ 2023-08-16 19:08:48,258 : INFO : Test_Login : test_Login_002 : 42 : Entering EmailID
+ 2023-08-16 19:08:48,334 : INFO : Test_Login : test_Login_002 : 45 : Entering Password
+ 2023-08-16 19:08:51,656 : INFO : Test_Login : test_Login_002 : 48 : Click on Login Button
+ 2023-08-16 19:16:05,265 : INFO : Test_Login : test_Login_002 : 34 : test_homePageTitle_001 is Started
+ 2023-08-16 19:16:05,266 : INFO : Test_Login : test_Login_002 : 35 : Opening Browser
+ 2023-08-16 19:16:10,297 : INFO : Test_Login : test_Login_002 : 37 : Opening URl
+ 2023-08-16 19:16:11,205 : INFO : Test_Login : test_Login_002 : 40 : Click on Loging Button
+ 2023-08-16 19:16:11,346 : INFO : Test_Login : test_Login_002 : 42 : Entering EmailID
+ 2023-08-16 19:16:11,436 : INFO : Test_Login : test_Login_002 : 45 : Entering Password
+ 2023-08-16 19:16:13,839 : INFO : Test_Login : test_Login_002 : 48 : Click on Login Button
+ 2023-08-16 19:16:15,953 : INFO : Test_Login : test_Login_002 : 59 : test_Login_002 is completed
+ 2023-08-16 19:54:55,295 : INFO : Test_Login : test_Login_Params_003 : 21 : test_homePageTitle_001 is Started
+ 2023-08-16 19:54:55,296 : INFO : Test_Login : test_Login_Params_003 : 22 : Opening Browser
+ 2023-08-16 19:55:02,503 : INFO : Test_Login : test_Login_Params_003 : 24 : Opening URl
+ 2023-08-16 19:55:03,833 : INFO : Test_Login : test_Login_Params_003 : 27 : Click on Loging Button
+ 2023-08-16 19:55:04,137 : INFO : Test_Login : test_Login_Params_003 : 30 : Entering EmailID--->Credtest@gmail.com
+ 2023-08-16 19:55:04,353 : INFO : Test_Login : test_Login_Params_003 : 34 : Entering Passwordcred123
+ 2023-08-16 19:55:07,397 : INFO : Test_Login : test_Login_Params_003 : 37 : Click on Login Button
+ 2023-08-16 19:55:07,775 : INFO : Test_Login : test_Login_Params_003 : 44 : Click on Credence Button
+ 2023-08-16 19:55:09,155 : INFO : Test_Login : test_Login_Params_003 : 46 : Click on Logout Button
+ 2023-08-16 19:55:09,155 : INFO : Test_Login : test_Login_Params_003 : 47 : test_Login_Params_003 is passed
+ 2023-08-16 19:55:09,156 : INFO : Test_Login : test_Login_Params_003 : 72 : Test_Passed
+ 2023-08-16 19:55:09,214 : INFO : Test_Login : test_Login_Params_003 : 78 : test_Login_Params is completed
+ 2023-08-16 19:55:10,787 : INFO : Test_Login : test_Login_Params_003 : 21 : test_homePageTitle_001 is Started
+ 2023-08-16 19:55:10,788 : INFO : Test_Login : test_Login_Params_003 : 22 : Opening Browser
+ 2023-08-16 19:55:13,914 : INFO : Test_Login : test_Login_Params_003 : 24 : Opening URl
+ 2023-08-16 19:55:15,510 : INFO : Test_Login : test_Login_Params_003 : 27 : Click on Loging Button
+ 2023-08-16 19:55:15,687 : INFO : Test_Login : test_Login_Params_003 : 30 : Entering EmailID--->Credtest@gmail.com1
+ 2023-08-16 19:55:15,792 : INFO : Test_Login : test_Login_Params_003 : 34 : Entering Passwordcred123
+ 2023-08-16 19:55:17,900 : INFO : Test_Login : test_Login_Params_003 : 37 : Click on Login Button
+ 2023-08-16 19:55:28,032 : INFO : Test_Login : test_Login_Params_003 : 67 : test_Login_Params_003 Failed
+ 2023-08-16 19:55:28,032 : INFO : Test_Login : test_Login_Params_003 : 72 : Test_Passed
+ 2023-08-16 19:55:28,074 : INFO : Test_Login : test_Login_Params_003 : 78 : test_Login_Params is completed
+ 2023-08-16 19:55:29,602 : INFO : Test_Login : test_Login_Params_003 : 21 : test_homePageTitle_001 is Started
+ 2023-08-16 19:55:29,603 : INFO : Test_Login : test_Login_Params_003 : 22 : Opening Browser
+ 2023-08-16 19:55:34,518 : INFO : Test_Login : test_Login_Params_003 : 24 : Opening URl
+ 2023-08-16 19:55:35,573 : INFO : Test_Login : test_Login_Params_003 : 27 : Click on Loging Button
+ 2023-08-16 19:55:35,798 : INFO : Test_Login : test_Login_Params_003 : 30 : Entering EmailID--->Credtest@gmail.com
+ 2023-08-16 19:55:35,929 : INFO : Test_Login : test_Login_Params_003 : 34 : Entering Passwordcred1231
+ 2023-08-16 19:55:36,951 : INFO : Test_Login : test_Login_Params_003 : 37 : Click on Login Button
+ 2023-08-16 19:55:47,108 : INFO : Test_Login : test_Login_Params_003 : 67 : test_Login_Params_003 Failed
+ 2023-08-16 19:55:47,108 : INFO : Test_Login : test_Login_Params_003 : 72 : Test_Passed
+ 2023-08-16 19:55:47,139 : INFO : Test_Login : test_Login_Params_003 : 78 : test_Login_Params is completed
+ 2023-08-16 19:55:48,616 : INFO : Test_Login : test_Login_Params_003 : 21 : test_homePageTitle_001 is Started
+ 2023-08-16 19:55:48,616 : INFO : Test_Login : test_Login_Params_003 : 22 : Opening Browser
+ 2023-08-16 19:55:52,400 : INFO : Test_Login : test_Login_Params_003 : 24 : Opening URl
+ 2023-08-16 19:55:52,981 : INFO : Test_Login : test_Login_Params_003 : 27 : Click on Loging Button
+ 2023-08-16 19:55:53,095 : INFO : Test_Login : test_Login_Params_003 : 30 : Entering EmailID--->Credtest@gmail.com1
+ 2023-08-16 19:55:53,173 : INFO : Test_Login : test_Login_Params_003 : 34 : Entering Passwordcred1231
+ 2023-08-16 19:55:54,505 : INFO : Test_Login : test_Login_Params_003 : 37 : Click on Login Button
+ 2023-08-16 19:56:04,695 : INFO : Test_Login : test_Login_Params_003 : 67 : test_Login_Params_003 Failed
+ 2023-08-16 19:56:04,696 : INFO : Test_Login : test_Login_Params_003 : 72 : Test_Passed
+ 2023-08-16 19:56:04,718 : INFO : Test_Login : test_Login_Params_003 : 78 : test_Login_Params is completed
+ 2023-08-16 20:41:20,645 : INFO : Test_Login : test_Login_Params_003 : 23 : test_homePageTitle_001 is Started
+ 2023-08-16 20:41:20,646 : INFO : Test_Login : test_Login_Params_003 : 24 : Opening Browser
+ 2023-08-16 20:41:26,708 : INFO : Test_Login : test_Login_Params_003 : 26 : Opening URl
+ 2023-08-16 20:41:27,558 : INFO : Test_Login : test_Login_Params_003 : 29 : Click on Loging Button
+ 2023-08-16 20:41:27,741 : INFO : Test_Login : test_Login_Params_003 : 41 : Entering EmailID--->credtest@gmail.com1
+ 2023-08-16 20:41:27,806 : INFO : Test_Login : test_Login_Params_003 : 44 : Entering Passwordcred1231
+ 2023-08-16 20:41:28,649 : INFO : Test_Login : test_Login_Params_003 : 47 : Click on Login Button
+ 2023-08-16 20:41:38,765 : INFO : Test_Login : test_Login_Params_003 : 83 : test_Login_Params_003 Failed
+ 2023-08-16 20:41:38,789 : INFO : Test_Login : test_Login_Params_003 : 89 : Test_Passed
+ 2023-08-16 20:41:38,809 : INFO : Test_Login : test_Login_Params_003 : 95 : test_Login_Params is completed
+ 2023-08-16 20:41:40,232 : INFO : Test_Login : test_Login_Params_003 : 23 : test_homePageTitle_001 is Started
+ 2023-08-16 20:41:40,232 : INFO : Test_Login : test_Login_Params_003 : 24 : Opening Browser
+ 2023-08-16 20:41:43,605 : INFO : Test_Login : test_Login_Params_003 : 26 : Opening URl
+ 2023-08-16 20:41:44,450 : INFO : Test_Login : test_Login_Params_003 : 29 : Click on Loging Button
+ 2023-08-16 20:41:44,641 : INFO : Test_Login : test_Login_Params_003 : 41 : Entering EmailID--->credtest@gmail.com1
+ 2023-08-16 20:41:44,718 : INFO : Test_Login : test_Login_Params_003 : 44 : Entering Passwordcred1231
+ 2023-08-16 20:41:46,062 : INFO : Test_Login : test_Login_Params_003 : 47 : Click on Login Button
+ 2023-08-16 20:41:56,233 : INFO : Test_Login : test_Login_Params_003 : 83 : test_Login_Params_003 Failed
+ 2023-08-16 20:41:56,266 : INFO : Test_Login : test_Login_Params_003 : 89 : Test_Passed
+ 2023-08-16 20:41:56,289 : INFO : Test_Login : test_Login_Params_003 : 95 : test_Login_Params is completed
+ 2023-08-16 20:41:57,712 : INFO : Test_Login : test_Login_Params_003 : 23 : test_homePageTitle_001 is Started
+ 2023-08-16 20:41:57,712 : INFO : Test_Login : test_Login_Params_003 : 24 : Opening Browser
+ 2023-08-16 20:42:01,279 : INFO : Test_Login : test_Login_Params_003 : 26 : Opening URl
+ 2023-08-16 20:42:02,411 : INFO : Test_Login : test_Login_Params_003 : 29 : Click on Loging Button
+ 2023-08-16 20:42:02,595 : INFO : Test_Login : test_Login_Params_003 : 41 : Entering EmailID--->credtest@gmail.com1
+ 2023-08-16 20:42:02,670 : INFO : Test_Login : test_Login_Params_003 : 44 : Entering Passwordcred1231
+ 2023-08-16 20:42:03,477 : INFO : Test_Login : test_Login_Params_003 : 47 : Click on Login Button
+ 2023-08-16 20:42:13,578 : INFO : Test_Login : test_Login_Params_003 : 83 : test_Login_Params_003 Failed
+ 2023-08-16 20:42:13,593 : INFO : Test_Login : test_Login_Params_003 : 89 : Test_Passed
+ 2023-08-16 20:42:13,612 : INFO : Test_Login : test_Login_Params_003 : 95 : test_Login_Params is completed
+ 2023-08-16 20:42:15,010 : INFO : Test_Login : test_Login_Params_003 : 23 : test_homePageTitle_001 is Started
+ 2023-08-16 20:42:15,010 : INFO : Test_Login : test_Login_Params_003 : 24 : Opening Browser
+ 2023-08-16 20:42:18,400 : INFO : Test_Login : test_Login_Params_003 : 26 : Opening URl
+ 2023-08-16 20:42:19,236 : INFO : Test_Login : test_Login_Params_003 : 29 : Click on Loging Button
+ 2023-08-16 20:42:19,414 : INFO : Test_Login : test_Login_Params_003 : 41 : Entering EmailID--->credtest@gmail.com1
+ 2023-08-16 20:42:19,491 : INFO : Test_Login : test_Login_Params_003 : 44 : Entering Passwordcred1231
+ 2023-08-16 20:42:20,331 : INFO : Test_Login : test_Login_Params_003 : 47 : Click on Login Button
+ 2023-08-16 20:42:30,450 : INFO : Test_Login : test_Login_Params_003 : 83 : test_Login_Params_003 Failed
+ 2023-08-16 20:42:30,464 : INFO : Test_Login : test_Login_Params_003 : 89 : Test_Passed
+ 2023-08-16 20:42:30,484 : INFO : Test_Login : test_Login_Params_003 : 95 : test_Login_Params is completed
+ 2023-08-16 20:44:44,436 : INFO : Test_Login : test_Login_Params_003 : 21 : test_homePageTitle_001 is Started
+ 2023-08-16 20:44:44,436 : INFO : Test_Login : test_Login_Params_003 : 22 : Opening Browser
+ 2023-08-16 20:44:47,902 : INFO : Test_Login : test_Login_Params_003 : 24 : Opening URl
+ 2023-08-16 20:44:48,761 : INFO : Test_Login : test_Login_Params_003 : 27 : Click on Loging Button
+ 2023-08-16 20:44:48,855 : INFO : Test_Login : test_Login_Params_003 : 30 : Entering EmailID--->Credtest@gmail.com
+ 2023-08-16 20:44:48,933 : INFO : Test_Login : test_Login_Params_003 : 34 : Entering Passwordcred123
+ 2023-08-16 20:44:50,859 : INFO : Test_Login : test_Login_Params_003 : 37 : Click on Login Button
+ 2023-08-16 20:44:51,178 : INFO : Test_Login : test_Login_Params_003 : 44 : Click on Credence Button
+ 2023-08-16 20:44:52,487 : INFO : Test_Login : test_Login_Params_003 : 46 : Click on Logout Button
+ 2023-08-16 20:44:52,487 : INFO : Test_Login : test_Login_Params_003 : 47 : test_Login_Params_003 is passed
+ 2023-08-16 20:44:52,488 : INFO : Test_Login : test_Login_Params_003 : 72 : Test_Passed
+ 2023-08-16 20:44:52,786 : INFO : Test_Login : test_Login_Params_003 : 78 : test_Login_Params is completed
+ 2023-08-16 20:44:54,458 : INFO : Test_Login : test_Login_Params_003 : 21 : test_homePageTitle_001 is Started
+ 2023-08-16 20:44:54,458 : INFO : Test_Login : test_Login_Params_003 : 22 : Opening Browser
+ 2023-08-16 20:44:58,777 : INFO : Test_Login : test_Login_Params_003 : 24 : Opening URl
+ 2023-08-16 20:44:59,750 : INFO : Test_Login : test_Login_Params_003 : 27 : Click on Loging Button
+ 2023-08-16 20:44:59,853 : INFO : Test_Login : test_Login_Params_003 : 30 : Entering EmailID--->Credtest@gmail.com1
+ 2023-08-16 20:44:59,948 : INFO : Test_Login : test_Login_Params_003 : 34 : Entering Passwordcred123
+ 2023-08-16 20:45:01,369 : INFO : Test_Login : test_Login_Params_003 : 37 : Click on Login Button
+ 2023-08-16 20:45:11,471 : INFO : Test_Login : test_Login_Params_003 : 67 : test_Login_Params_003 Failed
+ 2023-08-16 20:45:11,471 : INFO : Test_Login : test_Login_Params_003 : 72 : Test_Passed
+ 2023-08-16 20:45:11,746 : INFO : Test_Login : test_Login_Params_003 : 78 : test_Login_Params is completed
+ 2023-08-16 20:45:13,470 : INFO : Test_Login : test_Login_Params_003 : 21 : test_homePageTitle_001 is Started
+ 2023-08-16 20:45:13,470 : INFO : Test_Login : test_Login_Params_003 : 22 : Opening Browser
+ 2023-08-16 20:45:17,154 : INFO : Test_Login : test_Login_Params_003 : 24 : Opening URl
+ 2023-08-16 20:45:18,051 : INFO : Test_Login : test_Login_Params_003 : 27 : Click on Loging Button
+ 2023-08-16 20:45:18,162 : INFO : Test_Login : test_Login_Params_003 : 30 : Entering EmailID--->Credtest@gmail.com
+ 2023-08-16 20:45:18,246 : INFO : Test_Login : test_Login_Params_003 : 34 : Entering Passwordcred1231
+ 2023-08-16 20:45:19,733 : INFO : Test_Login : test_Login_Params_003 : 37 : Click on Login Button
+ 2023-08-16 20:45:29,929 : INFO : Test_Login : test_Login_Params_003 : 67 : test_Login_Params_003 Failed
+ 2023-08-16 20:45:29,929 : INFO : Test_Login : test_Login_Params_003 : 72 : Test_Passed
+ 2023-08-16 20:45:30,204 : INFO : Test_Login : test_Login_Params_003 : 78 : test_Login_Params is completed
+ 2023-08-16 20:45:31,834 : INFO : Test_Login : test_Login_Params_003 : 21 : test_homePageTitle_001 is Started
+ 2023-08-16 20:45:31,834 : INFO : Test_Login : test_Login_Params_003 : 22 : Opening Browser
+ 2023-08-16 20:45:35,476 : INFO : Test_Login : test_Login_Params_003 : 24 : Opening URl
+ 2023-08-16 20:45:36,332 : INFO : Test_Login : test_Login_Params_003 : 27 : Click on Loging Button
+ 2023-08-16 20:45:36,427 : INFO : Test_Login : test_Login_Params_003 : 30 : Entering EmailID--->Credtest@gmail.com1
+ 2023-08-16 20:45:36,524 : INFO : Test_Login : test_Login_Params_003 : 34 : Entering Passwordcred1231
+ 2023-08-16 20:45:37,459 : INFO : Test_Login : test_Login_Params_003 : 37 : Click on Login Button
+ 2023-08-16 20:45:47,610 : INFO : Test_Login : test_Login_Params_003 : 67 : test_Login_Params_003 Failed
+ 2023-08-16 20:45:47,610 : INFO : Test_Login : test_Login_Params_003 : 72 : Test_Passed
+ 2023-08-16 20:45:47,956 : INFO : Test_Login : test_Login_Params_003 : 78 : test_Login_Params is completed
+ 2023-08-16 20:46:30,616 : INFO : Test_Login : test_addProduct_003 : 22 : test_addProduct_003 is Sarted
+ 2023-08-16 20:46:30,616 : INFO : Test_Login : test_addProduct_003 : 23 : Opening Browser
+ 2023-08-16 20:46:34,122 : INFO : Test_Login : test_addProduct_003 : 25 : Opening Url--->https://automation.credence.in/
+ 2023-08-16 20:46:34,990 : INFO : Test_Login : test_addProduct_003 : 29 : Click on Login Button
+ 2023-08-16 20:46:35,092 : INFO : Test_Login : test_addProduct_003 : 31 : Enter Email Address--->credtest@gmail.com
+ 2023-08-16 20:46:35,170 : INFO : Test_Login : test_addProduct_003 : 34 : Enter Password--->cred123
+ 2023-08-16 20:46:43,284 : INFO : Test_Login : test_addProduct_003 : 40 : Click on ApppleMackbook
+ 2023-08-16 20:46:44,366 : INFO : Test_Login : test_addProduct_003 : 43 : Select Qty
+ 2023-08-16 20:46:49,981 : INFO : Test_Login : test_addProduct_003 : 46 : Click on Continue
+ 2023-08-16 20:46:55,630 : INFO : Test_Login : test_addProduct_003 : 49 : Click on headPhone
+ 2023-08-16 20:46:56,920 : INFO : Test_Login : test_addProduct_003 : 51 : Click on Add Headphone
+ 2023-08-16 20:46:57,011 : INFO : Test_Login : test_addProduct_003 : 53 : Select Qty 
+ 2023-08-16 20:47:08,837 : INFO : Test_Login : test_addProduct_003 : 56 : Click on checkout
+ 2023-08-16 20:47:08,943 : INFO : Test_Login : test_addProduct_003 : 58 : Enter Firstname--->Credence
+ 2023-08-16 20:47:09,043 : INFO : Test_Login : test_addProduct_003 : 61 : Enter Lastname--->IT
+ 2023-08-16 20:47:09,136 : INFO : Test_Login : test_addProduct_003 : 64 : Enter Mobile Number
+ 2023-08-16 20:47:09,246 : INFO : Test_Login : test_addProduct_003 : 66 : Enter Address
+ 2023-08-16 20:47:09,326 : INFO : Test_Login : test_addProduct_003 : 68 : Enter Zipcode
+ 2023-08-16 20:47:09,515 : INFO : Test_Login : test_addProduct_003 : 71 : Enter Owner
+ 2023-08-16 20:47:09,592 : INFO : Test_Login : test_addProduct_003 : 73 : Enter CVV
+ 2023-08-16 20:47:09,823 : INFO : Test_Login : test_addProduct_003 : 75 : Enter Card number
+ 2023-08-16 20:47:09,968 : INFO : Test_Login : test_addProduct_003 : 77 : Enter card number
+ 2023-08-16 20:47:10,104 : INFO : Test_Login : test_addProduct_003 : 79 : Enter card number
+ 2023-08-16 20:47:10,104 : INFO : Test_Login : test_addProduct_003 : 80 : ENter vard number
+ 2023-08-16 20:47:10,243 : INFO : Test_Login : test_addProduct_003 : 82 : Enter card number
+ 2023-08-16 20:47:10,346 : INFO : Test_Login : test_addProduct_003 : 84 : Select Year
+ 2023-08-16 20:47:10,446 : INFO : Test_Login : test_addProduct_003 : 86 : Select Month
+ 2023-08-16 20:47:10,505 : INFO : Test_Login : test_addProduct_003 : 88 : Click on Final Checkout
+ 2023-08-16 20:48:36,123 : INFO : Test_Login : test_addProduct_003 : 22 : test_addProduct_003 is Sarted
+ 2023-08-16 20:48:36,123 : INFO : Test_Login : test_addProduct_003 : 23 : Opening Browser
+ 2023-08-16 20:48:40,036 : INFO : Test_Login : test_addProduct_003 : 25 : Opening Url--->https://automation.credence.in/
+ 2023-08-16 20:48:40,897 : INFO : Test_Login : test_addProduct_003 : 29 : Click on Login Button
+ 2023-08-16 20:48:41,006 : INFO : Test_Login : test_addProduct_003 : 31 : Enter Email Address--->credtest@gmail.com
+ 2023-08-16 20:48:41,084 : INFO : Test_Login : test_addProduct_003 : 34 : Enter Password--->cred123
+ 2023-08-16 20:48:48,438 : INFO : Test_Login : test_addProduct_003 : 40 : Click on ApppleMackbook
+ 2023-08-16 20:48:49,431 : INFO : Test_Login : test_addProduct_003 : 43 : Select Qty
+ 2023-08-16 20:48:55,019 : INFO : Test_Login : test_addProduct_003 : 46 : Click on Continue
+ 2023-08-16 20:49:00,666 : INFO : Test_Login : test_addProduct_003 : 49 : Click on headPhone
+ 2023-08-16 20:49:02,211 : INFO : Test_Login : test_addProduct_003 : 51 : Click on Add Headphone
+ 2023-08-16 20:49:02,329 : INFO : Test_Login : test_addProduct_003 : 53 : Select Qty 
+ 2023-08-16 20:49:13,839 : INFO : Test_Login : test_addProduct_003 : 56 : Click on checkout
+ 2023-08-16 20:49:13,943 : INFO : Test_Login : test_addProduct_003 : 58 : Enter Firstname--->Credence
+ 2023-08-16 20:49:14,043 : INFO : Test_Login : test_addProduct_003 : 61 : Enter Lastname--->IT
+ 2023-08-16 20:49:14,142 : INFO : Test_Login : test_addProduct_003 : 64 : Enter Mobile Number
+ 2023-08-16 20:49:14,225 : INFO : Test_Login : test_addProduct_003 : 66 : Enter Address
+ 2023-08-16 20:49:14,305 : INFO : Test_Login : test_addProduct_003 : 68 : Enter Zipcode
+ 2023-08-16 20:49:14,499 : INFO : Test_Login : test_addProduct_003 : 71 : Enter Owner
+ 2023-08-16 20:49:14,583 : INFO : Test_Login : test_addProduct_003 : 73 : Enter CVV
+ 2023-08-16 20:49:14,820 : INFO : Test_Login : test_addProduct_003 : 75 : Enter Card number
+ 2023-08-16 20:49:14,956 : INFO : Test_Login : test_addProduct_003 : 77 : Enter card number
+ 2023-08-16 20:49:15,104 : INFO : Test_Login : test_addProduct_003 : 79 : Enter card number
+ 2023-08-16 20:49:15,104 : INFO : Test_Login : test_addProduct_003 : 80 : ENter vard number
+ 2023-08-16 20:49:15,251 : INFO : Test_Login : test_addProduct_003 : 82 : Enter card number
+ 2023-08-16 20:49:15,364 : INFO : Test_Login : test_addProduct_003 : 84 : Select Year
+ 2023-08-16 20:49:15,478 : INFO : Test_Login : test_addProduct_003 : 86 : Select Month
+ 2023-08-16 20:49:15,543 : INFO : Test_Login : test_addProduct_003 : 88 : Click on Final Checkout
+ 2023-08-16 20:50:10,682 : INFO : Test_Login : test_addProduct_003 : 22 : test_addProduct_003 is Sarted
+ 2023-08-16 20:50:10,682 : INFO : Test_Login : test_addProduct_003 : 23 : Opening Browser
+ 2023-08-16 20:50:14,662 : INFO : Test_Login : test_addProduct_003 : 25 : Opening Url--->https://automation.credence.in/
+ 2023-08-16 20:50:15,550 : INFO : Test_Login : test_addProduct_003 : 29 : Click on Login Button
+ 2023-08-16 20:50:15,653 : INFO : Test_Login : test_addProduct_003 : 31 : Enter Email Address--->credtest@gmail.com
+ 2023-08-16 20:50:15,734 : INFO : Test_Login : test_addProduct_003 : 34 : Enter Password--->cred123
+ 2023-08-16 20:50:23,524 : INFO : Test_Login : test_addProduct_003 : 40 : Click on ApppleMackbook
+ 2023-08-16 20:50:24,531 : INFO : Test_Login : test_addProduct_003 : 43 : Select Qty
+ 2023-08-16 20:50:30,072 : INFO : Test_Login : test_addProduct_003 : 46 : Click on Continue
+ 2023-08-16 20:50:35,675 : INFO : Test_Login : test_addProduct_003 : 49 : Click on headPhone
+ 2023-08-16 20:50:36,741 : INFO : Test_Login : test_addProduct_003 : 51 : Click on Add Headphone
+ 2023-08-16 20:50:36,878 : INFO : Test_Login : test_addProduct_003 : 53 : Select Qty 
+ 2023-08-16 20:50:48,524 : INFO : Test_Login : test_addProduct_003 : 56 : Click on checkout
+ 2023-08-16 20:50:48,637 : INFO : Test_Login : test_addProduct_003 : 58 : Enter Firstname--->Credence
+ 2023-08-16 20:50:48,738 : INFO : Test_Login : test_addProduct_003 : 61 : Enter Lastname--->IT
+ 2023-08-16 20:50:48,854 : INFO : Test_Login : test_addProduct_003 : 64 : Enter Mobile Number
+ 2023-08-16 20:50:48,954 : INFO : Test_Login : test_addProduct_003 : 66 : Enter Address
+ 2023-08-16 20:50:49,039 : INFO : Test_Login : test_addProduct_003 : 68 : Enter Zipcode
+ 2023-08-16 20:50:49,247 : INFO : Test_Login : test_addProduct_003 : 71 : Enter Owner
+ 2023-08-16 20:50:49,345 : INFO : Test_Login : test_addProduct_003 : 73 : Enter CVV
+ 2023-08-16 20:50:49,613 : INFO : Test_Login : test_addProduct_003 : 75 : Enter Card number
+ 2023-08-16 20:50:49,783 : INFO : Test_Login : test_addProduct_003 : 77 : Enter card number
+ 2023-08-16 20:50:49,970 : INFO : Test_Login : test_addProduct_003 : 79 : Enter card number
+ 2023-08-16 20:50:49,970 : INFO : Test_Login : test_addProduct_003 : 80 : ENter vard number
+ 2023-08-16 20:50:50,139 : INFO : Test_Login : test_addProduct_003 : 82 : Enter card number
+ 2023-08-16 20:50:50,260 : INFO : Test_Login : test_addProduct_003 : 84 : Select Year
+ 2023-08-16 20:50:50,370 : INFO : Test_Login : test_addProduct_003 : 86 : Select Month
+ 2023-08-16 20:50:50,435 : INFO : Test_Login : test_addProduct_003 : 88 : Click on Final Checkout
+ 2023-08-16 20:53:01,941 : INFO : Test_Login : test_addProduct_003 : 22 : test_addProduct_003 is Sarted
+ 2023-08-16 20:53:01,941 : INFO : Test_Login : test_addProduct_003 : 23 : Opening Browser
+ 2023-08-16 20:53:06,061 : INFO : Test_Login : test_addProduct_003 : 25 : Opening Url--->https://automation.credence.in/
+ 2023-08-16 20:53:06,950 : INFO : Test_Login : test_addProduct_003 : 29 : Click on Login Button
+ 2023-08-16 20:53:07,056 : INFO : Test_Login : test_addProduct_003 : 31 : Enter Email Address--->credtest@gmail.com
+ 2023-08-16 20:53:07,146 : INFO : Test_Login : test_addProduct_003 : 34 : Enter Password--->cred123
+ 2023-08-16 20:53:14,463 : INFO : Test_Login : test_addProduct_003 : 40 : Click on ApppleMackbook
+ 2023-08-16 20:53:15,458 : INFO : Test_Login : test_addProduct_003 : 43 : Select Qty
+ 2023-08-16 20:53:21,053 : INFO : Test_Login : test_addProduct_003 : 46 : Click on Continue
+ 2023-08-16 20:53:26,681 : INFO : Test_Login : test_addProduct_003 : 49 : Click on headPhone
+ 2023-08-16 20:53:27,593 : INFO : Test_Login : test_addProduct_003 : 51 : Click on Add Headphone
+ 2023-08-16 20:53:27,709 : INFO : Test_Login : test_addProduct_003 : 53 : Select Qty 
+ 2023-08-16 20:53:39,330 : INFO : Test_Login : test_addProduct_003 : 56 : Click on checkout
+ 2023-08-16 20:53:39,431 : INFO : Test_Login : test_addProduct_003 : 58 : Enter Firstname--->Credence
+ 2023-08-16 20:53:39,517 : INFO : Test_Login : test_addProduct_003 : 61 : Enter Lastname--->IT
+ 2023-08-16 20:53:39,627 : INFO : Test_Login : test_addProduct_003 : 64 : Enter Mobile Number
+ 2023-08-16 20:53:39,729 : INFO : Test_Login : test_addProduct_003 : 66 : Enter Address
+ 2023-08-16 20:53:39,818 : INFO : Test_Login : test_addProduct_003 : 68 : Enter Zipcode
+ 2023-08-16 20:53:40,018 : INFO : Test_Login : test_addProduct_003 : 71 : Enter Owner
+ 2023-08-16 20:53:40,104 : INFO : Test_Login : test_addProduct_003 : 73 : Enter CVV
+ 2023-08-16 20:53:40,378 : INFO : Test_Login : test_addProduct_003 : 75 : Enter Card number
+ 2023-08-16 20:53:42,571 : INFO : Test_Login : test_addProduct_003 : 78 : Enter card number
+ 2023-08-16 20:53:44,736 : INFO : Test_Login : test_addProduct_003 : 81 : Enter card number
+ 2023-08-16 20:53:46,976 : INFO : Test_Login : test_addProduct_003 : 84 : Enter card number
+ 2023-08-16 20:53:47,091 : INFO : Test_Login : test_addProduct_003 : 86 : Select Year
+ 2023-08-16 20:53:47,207 : INFO : Test_Login : test_addProduct_003 : 88 : Select Month
+ 2023-08-16 20:53:47,269 : INFO : Test_Login : test_addProduct_003 : 90 : Click on Final Checkout
+ 2023-08-16 20:53:52,286 : INFO : Test_Login : test_addProduct_003 : 93 : test_addProduct_003 Passed
+ 2023-08-16 20:56:16,201 : INFO : Test_Login : test_addProduct_003 : 22 : test_addProduct_003 is Sarted
+ 2023-08-16 20:56:16,201 : INFO : Test_Login : test_addProduct_003 : 23 : Opening Browser
+ 2023-08-16 20:56:20,427 : INFO : Test_Login : test_addProduct_003 : 25 : Opening Url--->https://automation.credence.in/
+ 2023-08-16 20:56:21,337 : INFO : Test_Login : test_addProduct_003 : 29 : Click on Login Button
+ 2023-08-16 20:56:21,432 : INFO : Test_Login : test_addProduct_003 : 31 : Enter Email Address--->credtest@gmail.com
+ 2023-08-16 20:56:21,510 : INFO : Test_Login : test_addProduct_003 : 34 : Enter Password--->cred123
+ 2023-08-16 20:56:29,045 : INFO : Test_Login : test_addProduct_003 : 40 : Click on ApppleMackbook
+ 2023-08-16 20:56:30,124 : INFO : Test_Login : test_addProduct_003 : 43 : Select Qty
+ 2023-08-16 20:56:35,759 : INFO : Test_Login : test_addProduct_003 : 46 : Click on Continue
+ 2023-08-16 20:56:41,332 : INFO : Test_Login : test_addProduct_003 : 49 : Click on headPhone
+ 2023-08-16 20:56:42,243 : INFO : Test_Login : test_addProduct_003 : 51 : Click on Add Headphone
+ 2023-08-16 20:56:42,333 : INFO : Test_Login : test_addProduct_003 : 53 : Select Qty 
+ 2023-08-16 20:56:53,346 : INFO : Test_Login : test_addProduct_003 : 56 : Click on checkout
+ 2023-08-16 20:56:53,451 : INFO : Test_Login : test_addProduct_003 : 58 : Enter Firstname--->Credence
+ 2023-08-16 20:56:53,556 : INFO : Test_Login : test_addProduct_003 : 61 : Enter Lastname--->IT
+ 2023-08-16 20:56:53,656 : INFO : Test_Login : test_addProduct_003 : 64 : Enter Mobile Number
+ 2023-08-16 20:56:53,750 : INFO : Test_Login : test_addProduct_003 : 66 : Enter Address
+ 2023-08-16 20:56:53,838 : INFO : Test_Login : test_addProduct_003 : 68 : Enter Zipcode
+ 2023-08-16 20:56:54,046 : INFO : Test_Login : test_addProduct_003 : 71 : Enter Owner
+ 2023-08-16 20:56:54,140 : INFO : Test_Login : test_addProduct_003 : 73 : Enter CVV
+ 2023-08-16 20:56:54,386 : INFO : Test_Login : test_addProduct_003 : 75 : Enter Card number
+ 2023-08-16 20:56:56,589 : INFO : Test_Login : test_addProduct_003 : 78 : Enter card number
+ 2023-08-16 20:56:58,787 : INFO : Test_Login : test_addProduct_003 : 81 : Enter card number
+ 2023-08-16 20:57:00,965 : INFO : Test_Login : test_addProduct_003 : 84 : Enter card number
+ 2023-08-16 20:57:01,078 : INFO : Test_Login : test_addProduct_003 : 86 : Select Year
+ 2023-08-16 20:57:01,228 : INFO : Test_Login : test_addProduct_003 : 88 : Select Month
+ 2023-08-16 20:57:01,282 : INFO : Test_Login : test_addProduct_003 : 90 : Click on Final Checkout
+ 2023-08-16 20:57:40,729 : INFO : Test_Login : test_Login_Params_003 : 21 : test_homePageTitle_001 is Started
+ 2023-08-16 20:57:40,730 : INFO : Test_Login : test_Login_Params_003 : 22 : Opening Browser
+ 2023-08-16 20:57:44,271 : INFO : Test_Login : test_Login_Params_003 : 24 : Opening URl
+ 2023-08-16 20:57:45,213 : INFO : Test_Login : test_Login_Params_003 : 27 : Click on Loging Button
+ 2023-08-16 20:57:45,317 : INFO : Test_Login : test_Login_Params_003 : 30 : Entering EmailID--->Credtest@gmail.com
+ 2023-08-16 20:57:45,395 : INFO : Test_Login : test_Login_Params_003 : 34 : Entering Passwordcred123
+ 2023-08-16 20:57:47,540 : INFO : Test_Login : test_Login_Params_003 : 37 : Click on Login Button
+ 2023-08-16 20:57:47,843 : INFO : Test_Login : test_Login_Params_003 : 44 : Click on Credence Button
+ 2023-08-16 20:57:49,579 : INFO : Test_Login : test_Login_Params_003 : 46 : Click on Logout Button
+ 2023-08-16 20:57:49,579 : INFO : Test_Login : test_Login_Params_003 : 47 : test_Login_Params_003 is passed
+ 2023-08-16 20:57:49,579 : INFO : Test_Login : test_Login_Params_003 : 72 : Test_Passed
+ 2023-08-16 20:57:49,855 : INFO : Test_Login : test_Login_Params_003 : 78 : test_Login_Params is completed
+ 2023-08-16 20:57:51,652 : INFO : Test_Login : test_Login_Params_003 : 21 : test_homePageTitle_001 is Started
+ 2023-08-16 20:57:51,652 : INFO : Test_Login : test_Login_Params_003 : 22 : Opening Browser
+ 2023-08-16 20:57:55,294 : INFO : Test_Login : test_Login_Params_003 : 24 : Opening URl
+ 2023-08-16 20:57:55,799 : INFO : Test_Login : test_Login_Params_003 : 27 : Click on Loging Button
+ 2023-08-16 20:57:55,913 : INFO : Test_Login : test_Login_Params_003 : 30 : Entering EmailID--->Credtest@gmail.com1
+ 2023-08-16 20:57:55,991 : INFO : Test_Login : test_Login_Params_003 : 34 : Entering Passwordcred123
+ 2023-08-16 20:57:57,720 : INFO : Test_Login : test_Login_Params_003 : 37 : Click on Login Button
+ 2023-08-16 20:58:07,829 : INFO : Test_Login : test_Login_Params_003 : 67 : test_Login_Params_003 Failed
+ 2023-08-16 20:58:07,829 : INFO : Test_Login : test_Login_Params_003 : 72 : Test_Passed
+ 2023-08-16 20:58:08,040 : INFO : Test_Login : test_Login_Params_003 : 78 : test_Login_Params is completed
+ 2023-08-16 20:58:09,714 : INFO : Test_Login : test_Login_Params_003 : 21 : test_homePageTitle_001 is Started
+ 2023-08-16 20:58:09,714 : INFO : Test_Login : test_Login_Params_003 : 22 : Opening Browser
+ 2023-08-16 20:58:13,909 : INFO : Test_Login : test_Login_Params_003 : 24 : Opening URl
+ 2023-08-16 20:58:14,840 : INFO : Test_Login : test_Login_Params_003 : 27 : Click on Loging Button
+ 2023-08-16 20:58:14,942 : INFO : Test_Login : test_Login_Params_003 : 30 : Entering EmailID--->Credtest@gmail.com
+ 2023-08-16 20:58:15,020 : INFO : Test_Login : test_Login_Params_003 : 34 : Entering Passwordcred1231
+ 2023-08-16 20:58:16,124 : INFO : Test_Login : test_Login_Params_003 : 37 : Click on Login Button
+ 2023-08-16 20:58:26,245 : INFO : Test_Login : test_Login_Params_003 : 67 : test_Login_Params_003 Failed
+ 2023-08-16 20:58:26,245 : INFO : Test_Login : test_Login_Params_003 : 72 : Test_Passed
+ 2023-08-16 20:58:26,493 : INFO : Test_Login : test_Login_Params_003 : 78 : test_Login_Params is completed
+ 2023-08-16 20:58:28,251 : INFO : Test_Login : test_Login_Params_003 : 21 : test_homePageTitle_001 is Started
+ 2023-08-16 20:58:28,251 : INFO : Test_Login : test_Login_Params_003 : 22 : Opening Browser
+ 2023-08-16 20:58:32,028 : INFO : Test_Login : test_Login_Params_003 : 24 : Opening URl
+ 2023-08-16 20:58:32,916 : INFO : Test_Login : test_Login_Params_003 : 27 : Click on Loging Button
+ 2023-08-16 20:58:33,025 : INFO : Test_Login : test_Login_Params_003 : 30 : Entering EmailID--->Credtest@gmail.com1
+ 2023-08-16 20:58:33,103 : INFO : Test_Login : test_Login_Params_003 : 34 : Entering Passwordcred1231
+ 2023-08-16 20:58:34,551 : INFO : Test_Login : test_Login_Params_003 : 37 : Click on Login Button
+ 2023-08-16 20:58:44,674 : INFO : Test_Login : test_Login_Params_003 : 67 : test_Login_Params_003 Failed
+ 2023-08-16 20:58:44,674 : INFO : Test_Login : test_Login_Params_003 : 72 : Test_Passed
+ 2023-08-16 20:58:44,880 : INFO : Test_Login : test_Login_Params_003 : 78 : test_Login_Params is completed
+ 2023-08-16 21:00:46,031 : INFO : Test_Login : test_Login_Params_003 : 23 : test_homePageTitle_001 is Started
+ 2023-08-16 21:00:46,031 : INFO : Test_Login : test_Login_Params_003 : 24 : Opening Browser
+ 2023-08-16 21:00:46,471 : INFO : Test_Login : test_Login_Params_003 : 23 : test_homePageTitle_001 is Started
+ 2023-08-16 21:00:46,471 : INFO : Test_Login : test_Login_Params_003 : 24 : Opening Browser
+ 2023-08-16 21:00:46,471 : INFO : Test_Login : test_Login_Params_003 : 23 : test_homePageTitle_001 is Started
+ 2023-08-16 21:00:46,472 : INFO : Test_Login : test_Login_Params_003 : 24 : Opening Browser
+ 2023-08-16 21:00:50,652 : INFO : Test_Login : test_Login_Params_003 : 23 : test_homePageTitle_001 is Started
+ 2023-08-16 21:00:50,652 : INFO : Test_Login : test_Login_Params_003 : 24 : Opening Browser
+ 2023-08-16 21:00:52,798 : INFO : Test_Login : test_Login_Params_003 : 26 : Opening URl
+ 2023-08-16 21:00:52,838 : INFO : Test_Login : test_Login_Params_003 : 26 : Opening URl
+ 2023-08-16 21:00:54,687 : INFO : Test_Login : test_Login_Params_003 : 26 : Opening URl
+ 2023-08-16 21:00:55,156 : INFO : Test_Login : test_Login_Params_003 : 29 : Click on Loging Button
+ 2023-08-16 21:00:55,281 : INFO : Test_Login : test_Login_Params_003 : 29 : Click on Loging Button
+ 2023-08-16 21:00:55,666 : INFO : Test_Login : test_Login_Params_003 : 41 : Entering EmailID--->credtest@gmail.com1
+ 2023-08-16 21:00:55,838 : INFO : Test_Login : test_Login_Params_003 : 41 : Entering EmailID--->credtest@gmail.com1
+ 2023-08-16 21:00:55,947 : INFO : Test_Login : test_Login_Params_003 : 44 : Entering Passwordcred1231
+ 2023-08-16 21:00:55,950 : INFO : Test_Login : test_Login_Params_003 : 29 : Click on Loging Button
+ 2023-08-16 21:00:56,103 : INFO : Test_Login : test_Login_Params_003 : 44 : Entering Passwordcred1231
+ 2023-08-16 21:00:56,412 : INFO : Test_Login : test_Login_Params_003 : 41 : Entering EmailID--->credtest@gmail.com1
+ 2023-08-16 21:00:56,482 : INFO : Test_Login : test_Login_Params_003 : 44 : Entering Passwordcred1231
+ 2023-08-16 21:00:57,130 : INFO : Test_Login : test_Login_Params_003 : 47 : Click on Login Button
+ 2023-08-16 21:00:57,620 : INFO : Test_Login : test_Login_Params_003 : 47 : Click on Login Button
+ 2023-08-16 21:00:57,620 : INFO : Test_Login : test_Login_Params_003 : 47 : Click on Login Button
+ 2023-08-16 21:00:59,408 : INFO : Test_Login : test_Login_Params_003 : 26 : Opening URl
+ 2023-08-16 21:01:01,506 : INFO : Test_Login : test_Login_Params_003 : 29 : Click on Loging Button
+ 2023-08-16 21:01:01,799 : INFO : Test_Login : test_Login_Params_003 : 41 : Entering EmailID--->credtest@gmail.com1
+ 2023-08-16 21:01:01,886 : INFO : Test_Login : test_Login_Params_003 : 44 : Entering Passwordcred1231
+ 2023-08-16 21:01:02,925 : INFO : Test_Login : test_Login_Params_003 : 47 : Click on Login Button
+ 2023-08-16 21:01:07,252 : INFO : Test_Login : test_Login_Params_003 : 83 : test_Login_Params_003 Failed
+ 2023-08-16 21:01:07,346 : INFO : Test_Login : test_Login_Params_003 : 89 : Test_Passed
+ 2023-08-16 21:01:07,803 : INFO : Test_Login : test_Login_Params_003 : 95 : test_Login_Params is completed
+ 2023-08-16 21:01:07,834 : INFO : Test_Login : test_Login_Params_003 : 83 : test_Login_Params_003 Failed
+ 2023-08-16 21:01:07,834 : INFO : Test_Login : test_Login_Params_003 : 83 : test_Login_Params_003 Failed
+ 2023-08-16 21:01:07,866 : INFO : Test_Login : test_Login_Params_003 : 89 : Test_Passed
+ 2023-08-16 21:01:07,866 : INFO : Test_Login : test_Login_Params_003 : 89 : Test_Passed
+ 2023-08-16 21:01:08,131 : INFO : Test_Login : test_Login_Params_003 : 95 : test_Login_Params is completed
+ 2023-08-16 21:01:08,218 : INFO : Test_Login : test_Login_Params_003 : 95 : test_Login_Params is completed
+ 2023-08-16 21:01:13,068 : INFO : Test_Login : test_Login_Params_003 : 83 : test_Login_Params_003 Failed
+ 2023-08-16 21:01:13,083 : INFO : Test_Login : test_Login_Params_003 : 89 : Test_Passed
+ 2023-08-16 21:01:13,320 : INFO : Test_Login : test_Login_Params_003 : 95 : test_Login_Params is completed
+ 2023-08-16 21:02:55,276 : INFO : Test_Login : test_addProduct_003 : 22 : test_addProduct_003 is Sarted
+ 2023-08-16 21:02:55,276 : INFO : Test_Login : test_addProduct_003 : 23 : Opening Browser
+ 2023-08-16 21:02:59,307 : INFO : Test_Login : test_addProduct_003 : 25 : Opening Url--->https://automation.credence.in/
+ 2023-08-16 21:02:59,914 : INFO : Test_Login : test_addProduct_003 : 29 : Click on Login Button
+ 2023-08-16 21:03:00,037 : INFO : Test_Login : test_addProduct_003 : 31 : Enter Email Address--->credtest@gmail.com
+ 2023-08-16 21:03:00,135 : INFO : Test_Login : test_addProduct_003 : 34 : Enter Password--->cred123
+ 2023-08-16 21:03:07,485 : INFO : Test_Login : test_addProduct_003 : 40 : Click on ApppleMackbook
+ 2023-08-16 21:03:08,520 : INFO : Test_Login : test_addProduct_003 : 43 : Select Qty
+ 2023-08-16 21:03:14,046 : INFO : Test_Login : test_addProduct_003 : 46 : Click on Continue
+ 2023-08-16 21:03:19,746 : INFO : Test_Login : test_addProduct_003 : 49 : Click on headPhone
+ 2023-08-16 21:03:20,932 : INFO : Test_Login : test_addProduct_003 : 51 : Click on Add Headphone
+ 2023-08-16 21:03:21,019 : INFO : Test_Login : test_addProduct_003 : 53 : Select Qty 
+ 2023-08-16 21:03:32,071 : INFO : Test_Login : test_addProduct_003 : 56 : Click on checkout
+ 2023-08-16 21:03:32,180 : INFO : Test_Login : test_addProduct_003 : 58 : Enter Firstname--->Credence
+ 2023-08-16 21:03:32,277 : INFO : Test_Login : test_addProduct_003 : 61 : Enter Lastname--->IT
+ 2023-08-16 21:03:32,375 : INFO : Test_Login : test_addProduct_003 : 64 : Enter Mobile Number
+ 2023-08-16 21:03:32,467 : INFO : Test_Login : test_addProduct_003 : 66 : Enter Address
+ 2023-08-16 21:03:32,546 : INFO : Test_Login : test_addProduct_003 : 68 : Enter Zipcode
+ 2023-08-16 21:03:32,726 : INFO : Test_Login : test_addProduct_003 : 71 : Enter Owner
+ 2023-08-16 21:03:32,807 : INFO : Test_Login : test_addProduct_003 : 73 : Enter CVV
+ 2023-08-16 21:03:39,180 : INFO : Test_Login : test_addProduct_003 : 75 : Enter Card number
+ 2023-08-16 21:03:45,518 : INFO : Test_Login : test_addProduct_003 : 77 : Enter card number
+ 2023-08-16 21:03:51,754 : INFO : Test_Login : test_addProduct_003 : 79 : Enter card number
+ 2023-08-16 21:03:58,098 : INFO : Test_Login : test_addProduct_003 : 81 : Enter card number
+ 2023-08-16 21:03:58,213 : INFO : Test_Login : test_addProduct_003 : 83 : Select Year
+ 2023-08-16 21:03:58,329 : INFO : Test_Login : test_addProduct_003 : 85 : Select Month
+ 2023-08-16 21:03:58,377 : INFO : Test_Login : test_addProduct_003 : 87 : Click on Final Checkout
